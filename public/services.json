@@ -1,44 +1,44 @@
 [
-    {
-        "id": 1,
-        "name": "ENGINE DIAGNOSTIC",
-        "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/dGDkr4v/1.jpg"
-    },
-    {
-        "id": 2,
-        "name": "WHEEL ALIGNMENT",
-        "price": "100",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/tY8dmnP/2.jpg"
-    },
-    {
-        "id": 3,
-        "name": "OIL CHANGING",
-        "price": "150",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/Yh04YVw/3.jpg"
-    },
-    {
-        "id": 4,
-        "name": "BRAKE REPARING",
-        "price": "180",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/ZX2Cbkn/4.jpg"
-    },
-    {
-        "id": 5,
-        "name": "WASH AND GLASSING",
-        "price": "100",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/FgQ3jXp/5.jpg"
-    },
-    {
-        "id": 6,
-        "name": "COMPLETE ANALYSIS",
-        "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
-        "img": "https://i.ibb.co/zJy5ZDd/6.jpg"
-    }
+  {
+    "id": 1,
+    "name": "Working women Health Checkup",
+    "price": "7550",
+    "description": "Liver function test- 11 tests, T-3, T-4, TSH- 3 tests Lipid profile- 8 tests, Hemogram 6 part.",
+    "img": "https://healthcheckup.manipalhospitals.com/media/catalog/product/cache/1/small_image/9df78eab33525d08d6e5fb8d27136e95/b/a/basichealthcheck_2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Young Individual Health Checkup",
+    "price": "3950",
+    "description": "Liver function test- 11 tests, T-3, T-4, TSH- 3 tests Lipid profile- 8 tests, Hemogram 6 part ",
+    "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5H4JAET5KBP7XBZUNSM76KUQPU.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Active Professional Health Checkup",
+    "price": "8450",
+    "description": "HbA1c (2 tests), T-3, T-4, TSH, Iron Deficiency Profile (3 tests), Liver Function Tests (11 tests)",
+    "img": "https://empowertotalhealth.com.au/wp-content/uploads/2016/03/Doctorpatient.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Active Adult Health Checkup",
+    "price": "5650",
+    "description": "Advanced renal profile, HbA1c Vitamin profile + 58 more tests...",
+    "img": "https://medieasy.in/wp-content/uploads/2021/06/Professional-Checkup.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Advanced Young Individual Checkup",
+    "price": "4480",
+    "description": "HbA1c (2 tests), Hemogram T-3, T-4, TSH, Iron Deficiency Profile (3 tests), Liver Function Tests",
+    "img": "https://www.fromdayone.co/wp-content/uploads/2021/06/iStock-1126835434.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Pregnancy Checkup",
+    "price": "5770",
+    "description": "HbA1c (2 tests), Hemogram T-3, T-4, TSH, Iron Deficiency Profile (3 tests), Liver Function Tests",
+    "img": "https://townsquare.media/site/385/files/2015/04/RS1779_137952157.jpg?w=980&q=75.jpg"
+  }
 ]

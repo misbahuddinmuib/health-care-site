@@ -9,13 +9,18 @@ const Header = () => {
         <>
   <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" sticky="top">
     <Container>
-    <Navbar.Brand href="#home">Genius</Navbar.Brand>
+    <Navbar.Brand href="#home">Health Care</Navbar.Brand>
     <Navbar.Toggle />
     <Navbar.Collapse className="justify-content-end">
 
     <Nav.Link as={HashLink} to="/home#home">Home</Nav.Link>
-      <Nav.Link as={HashLink} to="/home#services">Services</Nav.Link>
-      <Nav.Link  as={HashLink} to="/home#experts">Experts</Nav.Link>
+      <Nav.Link as={HashLink} to="/home#services">Our Services</Nav.Link>
+      <Nav.Link  as={HashLink} to="/home#experts">Doctors</Nav.Link>
+      <Nav.Link  as={HashLink} to="/emergencyService">Emergency Service</Nav.Link>
+      <Nav.Link  as={HashLink} to="/contact">Contact</Nav.Link>
+      
+
+
       { user?.email ?
       <Button onClick={logOut} variant="light">Logout</Button>:
          <Nav.Link href="/login">Login</Nav.Link>

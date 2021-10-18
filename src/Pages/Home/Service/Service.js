@@ -12,7 +12,8 @@ const Service = ({service}) => {
         <h3>Price: {price}</h3>
         <p className="px-3">{description}</p>
         <Link to={`/booking/${id}`}>
-        <button  className="btn btn-warning">Book {name.toLowerCase()} </button>
+        <button  className="btn btn-warning">Book Checkup </button>
+        {/* {name.toLowerCase()} */}
         </Link>
         
         </div>
