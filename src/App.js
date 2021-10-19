@@ -9,6 +9,7 @@ import NotFound from './Pages/NotFound/NotFound';
 import Header from './Pages/Shared/Header/Header';
 import Contact from './Pages/Login/Contact/Contact';
 import EmergencyService from './Pages/Home/EmergencyService/EmergencyService';
+import Footer from './Pages/Footer/Footer';
 
 
 
@@ -49,6 +50,8 @@ function App() {
 
 
         </Switch>
+
+        <Footer> </Footer>
         
 
      
